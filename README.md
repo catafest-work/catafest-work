@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/089533e9-ca46-4008-9b2e-0ec1df824f62.svg)](https://wakatime.com/@089533e9-ca46-4008-9b2e-0ec1df824f62)
 
-[![catafest-work's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catafest_work=true)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/089533e9-ca46-4008-9b2e-0ec1df824f62.svg)](https://wakatime.com/@089533e9-ca46-4008-9b2e-0ec1df824f62)
