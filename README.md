@@ -14,5 +14,5 @@
 -->
 - 🔭 I’m currently working with JavaScript 
 
-time on wakatime with all projects on catafest-work account ...
-[![wakatime](https://wakatime.com/badge/user/089533e9-ca46-4008-9b2e-0ec1df824f62.svg)](https://wakatime.com/@089533e9-ca46-4008-9b2e-0ec1df824f62)
+time on wakatime with all projects on catafest-work account ... 
+
