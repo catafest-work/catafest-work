@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with my old computer , I need to buy new hardware. This will help my work and let me share it.
 - 💬 you can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
 
-I have another account with source code : **https://github.com/catafest** .
+I have another account with source code : **https://github.com/catafest** . time on wakatime with all projects on catafest-work account ... 
 
-time on wakatime with all projects on catafest-work account ... 
+[![GitHub Sponsors](https://img.shields.io/badge/$-sponsors-brightgreen)](https://github.com/sponsors/catafest-work)
 
