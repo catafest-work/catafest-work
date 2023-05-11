@@ -14,7 +14,7 @@
 - 🔭 I’m currently working with JavaScript 
 - 🌱 I’m currently learning : javascript, web development and graphql 
 - 🤔 I’m looking for help with my old computer , I need to buy new hardware. This will help my work and let me share it.
-- 💬 you can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
+- 💬 You can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
 
 I have another account with source code : **https://github.com/catafest** . time on wakatime with all projects on catafest-work account ... 
 
