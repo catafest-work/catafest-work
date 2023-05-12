@@ -18,5 +18,4 @@
 
 I have another account with source code : **https://github.com/catafest** . time on wakatime with all projects on catafest-work account ... 
 
-[![GitHub Sponsors - catafest ](https://img.shields.io/badge/$-sponsors-brightgreen)](https://github.com/sponsors/catafest)
 
