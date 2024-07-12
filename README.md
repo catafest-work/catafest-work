@@ -17,7 +17,3 @@
 - 💬 You can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
 
 I have another account with source code : **https://github.com/catafest** . 
-
-Time on wakatime with all projects on catafest-work account ... 
-
-[![catafest's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=catafest-work)](https://github.com/catafest-work)
