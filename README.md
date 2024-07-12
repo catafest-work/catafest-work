@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working with JavaScript 
-- 🌱 I’m currently learning : javascript, web development, graphql and cypress.
+- 🌱 I’m currently learning, testing and works with: javascript, web development, graphql and cypress.
 - 🤔 I’m looking for help with my old computer , I need to buy new hardware. This will help my work and let me share it.
 - 💬 You can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
 
