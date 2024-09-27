@@ -15,5 +15,6 @@
 - 🌱 I’m currently learning, testing and works with: javascript, web development, graphql and cypress.
 - 🤔 I’m looking for help with my old computer , I need to buy new hardware. This will help my work and let me share it.
 - 💬 You can find my work as programmer and artist if you search by Catalin George Festila or my nicknames: **catafest** and **mythcat**.
-
+wakatime all time work account:
+<img src="https://wakatime.com/share/@catafest-work/78652da1-1bd4-4d3f-88ec-8edf72fccb98.svg" height=176px></img>
 I have another account with source code : **https://github.com/catafest** . 
